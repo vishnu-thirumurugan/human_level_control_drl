@@ -1,6 +1,7 @@
 # human_level_control_drl
 
 ## pseudo code
+
 class repeat_action_and_max_frame
 
   derives from : gym.Wrapper
